@@ -1,4 +1,13 @@
-header{
-    background-color: aqua;
-    color: #ff7ff4;
+body{
+    background-color:rgb(38, 219, 188);
+    color: black;
+}
+.cidade{
+    width: 30%;
+}
+.campo{
+    width: 30%;
+}
+.cdd{
+    width: 30%;
 }
